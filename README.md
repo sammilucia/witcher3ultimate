@@ -10,7 +10,14 @@ This has taken a lot of trying different mods, experimenting, and fixing conflic
 
 ## Contributing
 
-I am always happy to receive help, constructive feedback, and suggestions! especially on the TODO items below! 😊
+I am always happy to receive help, constructive feedback, and suggestions! especially on the [TODO](https://github.com/sammilucia/witcher3ultimate/blob/main/README.md#todo) items below! 😊
+
+## TODO
+
+- Get BlitzFX running on Linux 😥 (you can use everything else on Linux, just not BlitzFX yet). Crashdummy in the asus-linux.org discord suggested trying `WINEDLLOVERRIDES="d3d11=n" %command%` to Steam but I haven't had a chance to try it yet
+- Geralt kind of shuffles instead of walks. I haven't worked out why!
+- Sheep look AWFUL. There is a mod but it just makes them look fake.
+- I'd like Geralt to look paler (while still having a less red scar). Everyone comments how awful you look (but 
 
 ## Kudos
 I will credit all mod authors and link to their mods. While I've put in days of my time and manually fixed some conflicts, ultimately they did the biggest part of the work, and this would not exist without not just the mods these authors made, but also often the mods that came before them that they improved upon. Not to mention the fantastic work of CDPR, who made one of the best games (imo) of all time, with such incredible voice acting, and so much love and thought behind it.
@@ -32,13 +39,6 @@ There are some new hotkeys and things to know in the game now:
 - Double tap LShift to sprint harder
 - Use Witcher Sense to see your map
 - Use Backspace to toggle the HUD off and on
-
-## TODO
-
-- Get BlitzFX running on Linux 😥 (you can use everything else on Linux, just not BlitzFX yet). Crashdummy in the asus-linux.org discord suggested trying `WINEDLLOVERRIDES="d3d11=n" %command%` to Steam but I haven't had a chance to try it yet
-- Geralt kind of shuffles instead of walks. I haven't worked out why!
-- Sheep look AWFUL. There is a mod but it just makes them look fake.
-- I'd like Geralt to look paler (while still having a less red scar). Everyone comments how awful you look (but 
 
 ## The mods used are (I've probably missed some, I'll reconcile these later):
 
@@ -90,3 +90,25 @@ There are some new hotkeys and things to know in the game now:
 - The starting weapons are now the ending weapons from Witcher 2 (Witcher 3 - Redux)
 - You will feel more powerful and competent, like a Witcher should. At the same time, the enemies will feel a lot more dangerous, and some of them are significantly faster
 - You no longer run out of stamina (only to have it immediately restored) while "sprinting". ("Sprinting is more of a "jog" imo.) (Advanced Sprint)
+- There are now animations for a range of activities such as taking potions, oiling swords, eating and drinking. Careful! If you decide to oil your sword mid-combat because you haven't planned—you might not be able to! (Complete Animations Redux). I didn't use looting animations, because you already go into the looting screen, which felt adequate
+
+### Witcher Stuff
+- Cat is now more believable, it doesn't highlight enemies, and is not so crazy bright (Darker Cat, Cat Potion No Enemy Glow)
+
+## Screenshot
+
+![sshot-002](https://user-images.githubusercontent.com/3295286/189504644-35c033b0-3d5a-4390-ace0-e647fcc3f372.png)
+![sshot-034](https://user-images.githubusercontent.com/3295286/189504645-ce30fb73-7942-44e0-b3e3-7da3eee74776.png)
+![sshot-030](https://user-images.githubusercontent.com/3295286/189504647-c3372afb-f8df-4d67-b7ad-4019eeed4c1e.png)
+![sshot-026](https://user-images.githubusercontent.com/3295286/189504648-3fbc2cc5-2421-4978-a752-59178098574a.png)
+![sshot-029](https://user-images.githubusercontent.com/3295286/189504650-9ada3d14-0eda-4de3-8378-4f924b7844cc.png)
+![sshot-024](https://user-images.githubusercontent.com/3295286/189504653-4db493c1-a1f1-4e75-b9e7-d6c87bfff6e7.png)
+![sshot-021](https://user-images.githubusercontent.com/3295286/189504656-fe9f61e2-a9b9-4123-8d0f-5e87e629d19d.png)
+![sshot-019](https://user-images.githubusercontent.com/3295286/189504658-ee2d671b-268c-4291-b349-a9d8c9fbb023.png)
+![sshot-023](https://user-images.githubusercontent.com/3295286/189504660-e5269b55-515e-44c8-babd-ccf79d27c985.png)
+![sshot-020](https://user-images.githubusercontent.com/3295286/189504661-03fe33e0-65f6-4ad3-a5ed-cfae66f6d505.png)
+![sshot-006](https://user-images.githubusercontent.com/3295286/189504662-5073bb19-ed01-410b-a5f8-fc0e4f212560.png)
+![sshot-010](https://user-images.githubusercontent.com/3295286/189504664-421b3998-8fe1-46e4-9094-fb24787e562c.png)
+![sshot-009](https://user-images.githubusercontent.com/3295286/189504665-64194e96-e340-4162-a2e4-009bc15cf7b2.png)
+![sshot-004](https://user-images.githubusercontent.com/3295286/189504667-39d3c7cb-5467-48da-b4be-4640929be70d.png)
+
