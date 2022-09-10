@@ -8,6 +8,10 @@ However, I decided to mod a bunch of things to fix things that bug me, while rea
 
 This has taken a lot of trying different mods, experimenting, and fixing conflicts between mods (The Witcher 3 is notoriously fiddly to mod). So I figured I'd share my results here, so that if you want to just jump in to a modded game, you can.
 
+## Contributing
+
+I am always happy to receive help, constructive feedback, and suggestions! especially on the TODO items below! 😊
+
 ## Kudos
 I will credit all mod authors and link to their mods. While I've put in days of my time and manually fixed some conflicts, ultimately they did the biggest part of the work, and this would not exist without not just the mods these authors made, but also often the mods that came before them that they improved upon. Not to mention the fantastic work of CDPR, who made one of the best games (imo) of all time, with such incredible voice acting, and so much love and thought behind it.
 
@@ -30,6 +34,7 @@ There are some new hotkeys in the game:
 
 ## TODO
 
+- Get BlitzFX running on Linux 😥 (you can use everything else on Linux, just not BlitzFX yet)
 - Geralt kind of shuffles instead of walks. I haven't worked out why!
 - Sheep look AWFUL. There is a mod but it just makes them look fake.
 - I'd like Geralt to look paler (while still having a less red scar). Everyone comments how awful you look (but 
