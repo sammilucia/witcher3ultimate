@@ -23,10 +23,11 @@ Mods that are too "obvious" are not used—some mods look amazing, but are just 
 
 Most importantly, in some cases, I chose to use _no_ mods at all. Why? This is not a "mod everything that can be modded" modpack. It's a very carefully picked group of mods. While some mods like HD Oaks, Darker Generic Trees, Rustic Pines, HD Monsters, and HD Animals are technically more realistic or improved, I felt the world started to lose its fantasy feel, and I enjoyed it less. So there are many mods that are left out.
 
-## New Hotkeys
+## New Hotkeys 'n' stuff
 
-There are some new hotkeys in the game:
+There are some new hotkeys and things to know in the game now:
 
+- Go to the Options > Mods menu, you can tune many of the mods to your liking 😊
 - Press 'N' to use Axii during Gwent (and automatically win). Why? Some people don't like to play Gwent, but I still want to collect all the cards and finish all the quests
 - Double tap LShift to sprint harder
 - Use Witcher Sense to see your map
@@ -34,7 +35,7 @@ There are some new hotkeys in the game:
 
 ## TODO
 
-- Get BlitzFX running on Linux 😥 (you can use everything else on Linux, just not BlitzFX yet)
+- Get BlitzFX running on Linux 😥 (you can use everything else on Linux, just not BlitzFX yet). Crashdummy in the asus-linux.org discord suggested trying `WINEDLLOVERRIDES="d3d11=n" %command%` to Steam but I haven't had a chance to try it yet
 - Geralt kind of shuffles instead of walks. I haven't worked out why!
 - Sheep look AWFUL. There is a mod but it just makes them look fake.
 - I'd like Geralt to look paler (while still having a less red scar). Everyone comments how awful you look (but 
@@ -44,6 +45,8 @@ There are some new hotkeys in the game:
 ### Game
 
 - Thousands of bug and quest fixes (Witcher 3 - Redux, Brothers in Arms, NPC Script Fixes, Immersive Sound, Rend Adrenaline Fix, Fix Duplicate Merchant)
+- Looting—by default you can steal everything (like in Cyberpunk 2077). You can changeg this in the Mods menus. Looting will now also loot all close-by containers at once, so it's less tedious and more fun (Convenient Looting Redux)
+- Looting herbs, you now don't have to go into the herb menu, and will get 1–3 of that herb (Enhanced Herbalism). The downside of this is, without the HUD on, it's now very difficult to know which herb is which, which does bother me if anyone can think of a workaround
 
 ### Engine
 
